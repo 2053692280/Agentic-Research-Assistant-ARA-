@@ -1,0 +1,10 @@
+crewai[tools]==0.30.11
+langchain-openai
+langchain-community
+chromadb
+openai
+tavily-python
+beautifulsoup4
+requests
+pypdf
+sentence-transformers

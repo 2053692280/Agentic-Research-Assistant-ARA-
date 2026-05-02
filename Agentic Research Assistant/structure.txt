@@ -1,0 +1,9 @@
+agentic_ra/
+├── main.py                 # 主入口
+├── agents.py               # 定义4个Agent + 编排器
+├── tasks.py                # 定义任务流程
+├── tools.py                # 搜索、爬虫、RAG检索等工具
+├── memory.py               # 短期与长期记忆处理
+├── models.py               # 多模型混合配置
+├── requirements.txt
+└── data/                   # 向量库持久化目录
